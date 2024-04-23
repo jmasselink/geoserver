@@ -114,6 +114,8 @@ Once the workspace is created, we are ready to add a new store. The store tells 
         - (Checked)
 
    .. note:: Leave all other fields at their default values.
+   .. If using dockerized Geoserver, set the following host instead:
+       - `host.docker.internal`
            
    .. figure:: connectionParameters.png
        
