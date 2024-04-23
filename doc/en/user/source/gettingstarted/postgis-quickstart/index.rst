@@ -173,7 +173,7 @@ In order to verify that the ``nyc_buildings`` layer is published correctly, we c
 
 #. Click the :guilabel:`OpenLayers` link in the :guilabel:`Common Formats` column.
 
-#. An OpenLayers map will load in a new tab and display the shapefile data with the default line style. You can use this preview map to zoom and pan around the dataset, as well as display the attributes of features.
+#. An OpenLayers map will load in a new tab and display the PostGIS data with the default polygon style. You can use this preview map to zoom and pan around the dataset, as well as display the attributes of features.
 
    .. figure:: openlayers.png
 
